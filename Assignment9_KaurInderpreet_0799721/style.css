@@ -1,0 +1,44 @@
+/*
+Name: Inderpreet Kaur
+Student Id:0799721
+*/
+
+header, html{
+    background-color: darkcyan;
+}
+/*
+heading style
+*/
+h1{
+    font-size: 40px;
+}
+h2{
+
+    font-size: 30px;
+}
+p{
+    font-size: 25px;
+}
+img[src="img1.jpg"]{
+    width: 30%;
+    height: 20%;
+    margin: auto;
+    display: block;
+}
+img[src="img2.jpeg"]{
+    width:30%;
+    height:30%;
+    margin: auto;
+    display: block;
+
+}
+img[src="img3.jpeg"]{
+    width:30%;
+    height:30%;
+    margin: auto;
+    display: block;
+
+}
+footer{
+    font-size: 23px;
+}
